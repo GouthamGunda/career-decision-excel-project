@@ -1,0 +1,4 @@
+This project analyzes different career options using Excel.
+
+It uses data comparison and formulas to support better decision-making.
+Created as part of Data Analyst portfolio.
