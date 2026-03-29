@@ -26,5 +26,10 @@ This project is built using Microsoft Excel to help analyze and support career d
 - Supports decision-making using data
 - Improves analytical thinking
 
+## 📸 Screenshots
+
+![Analysis](screenshot1.png)
+![Comparison](screenshot2.png)
+
 ## 👨‍💻 Author
 Gunda Goutham
